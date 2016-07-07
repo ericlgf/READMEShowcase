@@ -2,15 +2,10 @@
 Technologies: JSON, REST, PHP, AngularJs
 Topics: REST, Microsoft Azure SDK for PHP, AngularJs
 Platforms: Web, Cloud, Storage
-Requirements: 
-- PHP 5.5 or above
-- An Azure storage account
-- Composer & Npm
-- Gulp manage client scripts
-
+Requirements: <ul><li>PHP 5.5 or above</li><li>An Azure storage account</li><li>Composer & Npm</li><li>Gulp manage client scripts</li></ul>
 Primary language: en-US
 Updated: 6/28/2016
-License: [MS-LPL](./license.rtf)
+License: <a href="./license.rtf">MS-LPL</a>
 ---
 
 # How to use Azure Storage blob modules by PHP
