@@ -1,11 +1,7 @@
 ---
-Technologies: JSON, REST, PHP, AngularJs
-Topics: REST, Microsoft Azure SDK for PHP, AngularJs
-Platforms: Web, Cloud, Storage
-Requirements: <ul><li>PHP 5.5 or above</li><li>An Azure storage account</li><li>Composer & Npm</li><li>Gulp manage client scripts</li></ul>
-Primary language: en-US
-Updated: 6/28/2016
-License: <a href="./license.rtf">MS-LPL</a>
+services: storage
+platforms: php
+author: danielxu-msft
 ---
 
 # How to use Azure Storage blob modules by PHP
@@ -82,4 +78,16 @@ Here we need the storage account name and access key for setting up a correct co
 ## More Information and Resources
 
 - Azure Storage SDK for PHP: [https://github.com/Azure/azure-storage-php](https://github.com/Azure/azure-storage-php)
+
 - Microsoft Azure storage documents: [https://azure.microsoft.com/en-us/documentation/services/storage](https://azure.microsoft.com/en-us/documentation/services/storage)
+
+
+---
+Technologies: JSON, REST, PHP, AngularJs
+Topics: REST, Microsoft Azure SDK for PHP, AngularJs
+Platforms: Web, Cloud, Storage
+Requirements: <ul><li>PHP 5.5 or above</li><li>An Azure storage account</li><li>Composer & Npm</li><li>Gulp manage client scripts</li></ul>
+Primary language: en-US
+Updated: 6/28/2016
+License: <a href="./license.rtf">MS-LPL</a>
+---
